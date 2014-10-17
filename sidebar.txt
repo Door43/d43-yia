@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yia:home|Door43 (yia)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yia|d43-yia repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yia/archive/master.zip|d43-yia.zip]]
+
+**Recent Changes**
+{{changes>ns = yia}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yia|Ethnologue data]]
+
